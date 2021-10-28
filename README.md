@@ -2,7 +2,7 @@
 
 This project was created with [React Native CLI](https://reactnative.dev/) and [TypeScript](https://www.typescriptlang.org/) template.
 
-![ComponentsApp](https://github.com/Parterdev/react-native-pokedex/blob/master/breakingBad.png)
+![ComponentsApp](https://github.com/Parterdev/react-native-breaking-bad-quotes/blob/master/breakingBad.png)
 
 ## Description
 This project is a practical conference item of my React Native mobile app series that made with:
